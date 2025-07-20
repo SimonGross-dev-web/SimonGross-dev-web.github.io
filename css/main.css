@@ -1,1 +1,25 @@
 
+body {
+  font-family: Arial, sans-serif;
+  color: #111111;
+  line-height: 1.6;
+}
+h1, h2, h3 {
+  color: #64c7dc; /* A specific shade of dark, professional blue */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+thead {
+  background-color: #f2f2f2; /* Give the header a light gray background */
+}
