@@ -15,9 +15,9 @@ table {
 }
 
 th, td {
-  border: 1px solid #dddddd;
+  border: 1vw solid #dddddd;
   text-align: left;
-  padding: 8px;
+  padding: 2vw;
 }
 
 thead {
@@ -27,8 +27,8 @@ thead {
   display: inline-block;
   background-color: #64c7dc;
   color: white;
-  padding: 12px 20px;
-  border-radius: 5px;
+  padding: 5vw 5vw;
+  border-radius: 2vw;
   text-decoration: none;
   font-weight: bold;
   border: none;
