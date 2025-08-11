@@ -7,7 +7,7 @@ body {
   line-height: 1.6;
 }
 h1, h2, h3 {
-  color: ##964B00;
+  color: #964B00;
 }
 
 table {
@@ -27,7 +27,7 @@ thead {
 }
 .btn-primary {
   display: inline-block;
-  background-color: ##964B00;
+  background-color: #964B00;
   color: white;
   padding: 5vw 5vw;
   border-radius: 2vw;
